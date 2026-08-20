@@ -1,0 +1,9 @@
+<details class="accordion">
+  <summary>
+    <span>{{ .title }}</span>
+    <span class="accordion-icon" aria-hidden="true"></span>
+  </summary>
+  <div class="accordion-body">
+    {{ .content | safeHTML }}
+  </div>
+</details>

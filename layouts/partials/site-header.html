@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="shell header-inner">
+    <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="{{ site.Title }} home">
+      {{ site.Params.author | default site.Title }}
+    </a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      {{ range site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>

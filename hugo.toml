@@ -1,0 +1,30 @@
+baseURL = "https://zoeeewu.github.io/academic-website/"
+languageCode = "en-us"
+title = "Academic Research Portfolio"
+disableKinds = ["taxonomy", "term"]
+ignoreLogs = ["warning-home-page-is-leaf-bundle", "warning-deprecated-path"]
+
+[params]
+  author = "Your Name"
+  description = "Personal academic research portfolio"
+  email = "your.email@example.com"
+  cv = "/cv/CV-placeholder.pdf"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Research"
+    pageRef = "/projects"
+    weight = 20
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 30

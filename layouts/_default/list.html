@@ -1,0 +1,54 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="shell">
+    <p class="eyebrow">Profile</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<article class="shell about-page">
+  <div class="content-flow">
+    {{ if .Params.portrait }}
+      <figure class="portrait-block">
+        <img src="{{ .Params.portrait }}" alt="Portrait placeholder" loading="lazy">
+      </figure>
+    {{ end }}
+    {{ .Content }}
+
+    {{ if .Params.interests }}
+      <h2>Research Interests</h2>
+      <div class="interest-list">
+        {{ range .Params.interests }}
+          <div>
+            <strong>{{ .name }}</strong>
+            <p>{{ .description }}</p>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ if .Params.academic_path }}
+      <h2>Academic / Research Path</h2>
+      {{ range .Params.academic_path }}
+        <section class="timeline-item">
+          <h3>{{ .title }}</h3>
+          <p>{{ .details }}</p>
+        </section>
+      {{ end }}
+    {{ end }}
+
+    {{ if .Params.outside_lab }}
+      <h2>Outside the Lab</h2>
+      <div class="outside-grid">
+        {{ range .Params.outside_lab }}
+          <figure>
+            <img src="{{ .image }}" alt="{{ .caption }}" loading="lazy">
+            <figcaption>{{ .caption }}</figcaption>
+          </figure>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

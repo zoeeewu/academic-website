@@ -1,0 +1,33 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="shell">
+    <p class="eyebrow">Research</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </div>
+</section>
+
+<section class="shell project-list" aria-label="Research projects">
+  {{ range .Pages.ByTitle }}
+    <article class="project-card">
+      {{ with .Params.figures }}
+        {{ with index . 0 }}
+          <a class="project-thumb" href="{{ $.RelPermalink }}" aria-label="Open {{ $.Title }}">
+            <img src="{{ .src }}" alt="{{ .alt }}" loading="lazy">
+          </a>
+        {{ end }}
+      {{ end }}
+      <div class="project-card-copy">
+        <p class="meta">{{ .Params.project_status }} · {{ .Params.role }}</p>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary | default .Params.summary }}</p>
+        {{ with .Params.methods }}
+          <ul class="tag-list" aria-label="Methods">
+            {{ range . }}<li>{{ . }}</li>{{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </article>
+  {{ end }}
+</section>
+{{ end }}

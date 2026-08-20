@@ -1,5 +1,5 @@
 :root {
-  --paper: #f7f7f7;
+  --paper: #ffffff;
   --surface: #ffffff;
   --ink: #171717;
   --muted: #666666;
@@ -7,9 +7,9 @@
   --sage: #4b4b4b;
   --clay: #111111;
   --blue: #2f2f2f;
-  --soft-sage: #eeeeee;
-  --soft-clay: #f2f2f2;
-  --shadow: 0 16px 42px rgba(0, 0, 0, 0.08);
+  --soft-sage: #ffffff;
+  --soft-clay: #ffffff;
+  --shadow: none;
   --radius: 8px;
   color-scheme: light;
 }
@@ -72,7 +72,7 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(247, 247, 247, 0.92);
+  background: rgba(255, 255, 255, 0.94);
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(10px);
 }
@@ -368,7 +368,7 @@ h3 {
 .content-flow code {
   padding: 0.1em 0.28em;
   border-radius: 4px;
-  background: #eeeeee;
+  background: #f3f3f3;
   color: var(--ink);
 }
 

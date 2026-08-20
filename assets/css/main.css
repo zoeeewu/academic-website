@@ -1,15 +1,15 @@
 :root {
-  --paper: #fbfaf7;
+  --paper: #f7f7f7;
   --surface: #ffffff;
-  --ink: #1f2528;
-  --muted: #626b6f;
-  --line: #ddd8cf;
-  --sage: #64776a;
-  --clay: #9d5f45;
-  --blue: #3d6478;
-  --soft-sage: #eef3ef;
-  --soft-clay: #f6eee9;
-  --shadow: 0 16px 42px rgba(31, 37, 40, 0.08);
+  --ink: #171717;
+  --muted: #666666;
+  --line: #d8d8d8;
+  --sage: #4b4b4b;
+  --clay: #111111;
+  --blue: #2f2f2f;
+  --soft-sage: #eeeeee;
+  --soft-clay: #f2f2f2;
+  --shadow: 0 16px 42px rgba(0, 0, 0, 0.08);
   --radius: 8px;
   color-scheme: light;
 }
@@ -39,7 +39,7 @@ img {
 
 a {
   color: inherit;
-  text-decoration-color: rgba(61, 100, 120, 0.45);
+  text-decoration-color: rgba(23, 23, 23, 0.4);
   text-underline-offset: 0.18em;
 }
 
@@ -72,7 +72,7 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(251, 250, 247, 0.92);
+  background: rgba(247, 247, 247, 0.92);
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(10px);
 }
@@ -368,7 +368,7 @@ h3 {
 .content-flow code {
   padding: 0.1em 0.28em;
   border-radius: 4px;
-  background: #eee9df;
+  background: #eeeeee;
   color: var(--ink);
 }
 

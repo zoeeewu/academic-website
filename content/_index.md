@@ -35,14 +35,6 @@ title = "Summer school"
 details = "Placeholder: add program name, focus, dates, and location if public."
 
 [[social]]
-label = "Email"
-url = "mailto:your.email@example.com"
-
-[[social]]
-label = "Google Scholar"
-url = "#"
-
-[[social]]
-label = "LinkedIn"
-url = "#"
+label = "Email: lachesism46@gmail.com"
+url = "mailto:lachesism46@gmail.com"
 +++

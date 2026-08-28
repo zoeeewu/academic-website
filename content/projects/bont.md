@@ -9,7 +9,7 @@ role = "Research Experience"
 figures = [
   { src = "/images/projects/bont/figure-placeholder.svg", alt = "Placeholder figure for BoNT project", caption = "Placeholder: replace with a real research figure, workflow, or image." }
 ]
-methods = ["Vicon  motion capture", "Human subject experience", "joint torque"]
+methods = ["Vicon  motion capture", "Human subject experience", "Joint torque"]
 +++
 
 ## Botulinum Neurotoxin effect for Modulation of Human Ankle Impedance during Walking

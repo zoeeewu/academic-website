@@ -9,7 +9,7 @@ role = "Research Experience"
 figures = [
   { src = "/images/projects/lower-extremity-biomechanics/figure-placeholder.svg", alt = "Placeholder figure for lower-extremity biomechanics project", caption = "Placeholder: replace with a real gait, force, motion capture, or workflow figure." }
 ]
-methods = ["CT", "population-specific mathematical models", "3D slicer", "TotalSegmentator"]
+methods = ["CT", "Population-specific mathematical models", "3D slicer", "TotalSegmentator"]
 +++
 
 ## Population-Specific Modeling of Lower-Extremity Muscle Morphology

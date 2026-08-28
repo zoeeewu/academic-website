@@ -9,7 +9,7 @@ role = "Undergraduate Final Year Project"
 figures = [
   { src = "/images/projects/cardiac-differentiation-hpsc/figure-placeholder.svg", alt = "Placeholder figure for cardiac differentiation from hPSCs project", caption = "Placeholder: replace with a real differentiation workflow, microscopy image, or analysis figure." }
 ]
-methods = ["serum-free medium", "small molecule differentiation strategies", "human embryonic stem cells (hESCs)", "cardiac cell differentiation"]
+methods = ["Serum-free medium", "Small molecule differentiation strategies", "Human embryonic stem cells (hESCs)", "Cardiac cell differentiation"]
 +++
 
 ## Undergraduate Final Year Project

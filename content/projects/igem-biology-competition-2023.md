@@ -6,7 +6,7 @@ draft = false
 weight = 60
 project_status = "2023.01 – 2023.10"
 role = "Research Experience"
-methods = ["synthetic biology", "probiotics", "gluten intolerance", "Celiac disease"]
+methods = ["Synthetic biology", "Probiotics", "Gluten intolerance", "Celiac disease"]
 +++
 
 ## iGEM Biology Competition (Student-led Research Team) 2023

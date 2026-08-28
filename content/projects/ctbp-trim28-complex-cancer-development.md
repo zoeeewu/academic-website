@@ -6,7 +6,7 @@ draft = false
 weight = 70
 project_status = "2023.04 – 2023.08"
 role = "Research Experience"
-methods = ["C2C12", "skeleton muscle cell differentiation", "brown fat", "paraffin-embedded tissue sections"]
+methods = ["C2C12", "Skeleton muscle cell differentiation", "Brown fat", "Paraffin-embedded tissue sections"]
 +++
 
 ## Novel autophagy repressing CtBP-Trim28 complex and its role in cancer development

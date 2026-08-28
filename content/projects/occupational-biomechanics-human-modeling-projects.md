@@ -6,7 +6,7 @@ draft = false
 weight = 30
 project_status = "2026.01 – 2026.04"
 role = "Research Experience"
-methods = ["musculoskeletal modeling", "biomechanical analysis", "OpenSim", "3DSSPP"]
+methods = ["Musculoskeletal modeling", "Biomechanical analysis", "OpenSim", "3DSSPP"]
 +++
 
 ## Occupational Biomechanics – Human Modeling Projects

@@ -6,7 +6,7 @@ draft = false
 weight = 40
 project_status = "2026.01 – 2026.04"
 role = "Research Experience"
-methods = ["EOG", "custom analog signal conditioning", "gaze classification", "audio control", "LabVIEW"]
+methods = ["EOG", "Custom analog signal conditioning", "Gaze classification", "Audio control", "LabVIEW"]
 +++
 
 ## Biomedical Instrumentation Design Projects

@@ -1,24 +1,16 @@
 +++
-title = "Lower-Extremity Biomechanics"
-summary = "Placeholder: add the research question, biomechanical measurements, and your contribution."
-date = 2026-01-01
+title = "Population-Specific Modeling of Lower-Extremity Muscle Morphology"
+summary = "Developed population-specific mathematical models of lower-extremity muscle morphology from CT-derived anatomical measurements, using conventional anthropometric variables to predict muscle maximum cross-sectional area (MaxCSA)."
+date = 2026-05-01
 draft = false
-project_status = "Placeholder"
-role = "Placeholder: add your role"
-methods = ["Placeholder biomechanics method", "Placeholder modeling or analysis"]
-figures = [
-  { src = "/images/projects/lower-extremity-biomechanics/figure-placeholder.svg", alt = "Placeholder figure for lower-extremity biomechanics project", caption = "Placeholder: replace with a real gait, force, motion capture, or workflow figure." }
-]
+project_status = "2026.05 – now"
+role = "Research Experience"
+methods = ["CT-derived anatomical measurements", "3D slicer", "population-specific mathematical models", "MaxCSA"]
 +++
 
-## Overview
+## Population-Specific Modeling of Lower-Extremity Muscle Morphology
 
-Placeholder: describe the lower-extremity biomechanics project, including study motivation, data type, methods, and your contribution.
+2026.05 – now
 
-## Workflow / Methods
-
-Placeholder: add data collection, preprocessing, statistical analysis, modeling, or visualization workflow.
-
-## Research Takeaways
-
-Placeholder: add research skills and insights. Keep any sensitive or unpublished findings out until reviewed.
+- Developed population-specific mathematical models of      lower-extremity muscle morphology from CT-derived anatomical measurements,      using conventional anthropometric variables to predict muscle maximum      cross-sectional area (MaxCSA). 
+- Processed data by 3D slicer and identified sex and body mass as      the dominant predictors of population variation in MaxCSA.

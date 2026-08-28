@@ -1,24 +1,19 @@
 +++
-title = "Cardiac Differentiation from hPSCs"
-summary = "Placeholder: add the research question, cell system, and your contribution."
-date = 2026-01-01
+title = "Optimization of small molecule-induced early cardiac differentiation from hESCs"
+summary = "Explored serum-free in vitro differentiation strategies to derive cardiomyocytes from human embryonic stem cells (hESCs)."
+date = 2024-03-01
 draft = false
-project_status = "Placeholder"
-role = "Placeholder: add your role"
-methods = ["Placeholder cell culture method", "Placeholder characterization method"]
-figures = [
-  { src = "/images/projects/cardiac-differentiation-hpsc/figure-placeholder.svg", alt = "Placeholder figure for cardiac differentiation from hPSCs project", caption = "Placeholder: replace with a real differentiation workflow, microscopy image, or analysis figure." }
-]
+project_status = "2024.03 – 2025.06"
+role = "Undergraduate Final Year Project"
+methods = ["serum-free in vitro differentiation strategies", "human embryonic stem cells (hESCs)", "early cardiac progenitor–like cell populations"]
 +++
 
-## Overview
+## Undergraduate Final Year Project
 
-Placeholder: describe the cardiac differentiation from hPSCs project, including the biological question, model system, and your contribution.
+2024.03 – 2025.06
 
-## Workflow / Methods
+## Optimization of small molecule-induced early cardiac differentiation from hESCs
 
-Placeholder: add protocol overview, culture timeline, assays, imaging, molecular characterization, or data analysis.
+    Explored serum-free in vitro differentiation strategies to derive cardiomyocytes from human embryonic stem cells (hESCs).
 
-## Research Takeaways
-
-Placeholder: add what you learned, methods you practiced, and how the project shaped your research interests.
+    Performed exploratory experiments to redirect early cardiac progenitor–like cell populations toward pharyngeal arch–derived craniofacial muscle differentiation. 

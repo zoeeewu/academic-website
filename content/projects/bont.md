@@ -1,24 +1,17 @@
 +++
-title = "BoNT"
-summary = "Placeholder: add the research question, system, and your contribution."
-date = 2026-01-01
+title = "Botulinum Neurotoxin effect for Modulation of Human Ankle Impedance during Walking"
+summary = "Conducted human-subject experiments and processed Vicon motion-capture data to characterize shank responses to mechanical perturbations in stroke individuals."
+date = 2026-05-01
 draft = false
-project_status = "Placeholder"
-role = "Placeholder: add your role"
-methods = ["Placeholder method", "Placeholder analysis"]
-figures = [
-  { src = "/images/projects/bont/figure-placeholder.svg", alt = "Placeholder figure for BoNT project", caption = "Placeholder: replace with a real research figure, workflow, or image." }
-]
+project_status = "2026.05 – now"
+role = "Research Experience"
+methods = ["Vicon motion-capture data", "joint torque", "acceleration", "kinematic responses", "perturbation-based models"]
 +++
 
-## Overview
+## Botulinum Neurotoxin effect for Modulation of Human Ankle Impedance during Walking
 
-Placeholder: describe the BoNT project in accurate, non-confidential language. Include the research context, your specific contribution, and what skills or methods you used.
+2026.05 – now
 
-## Workflow / Methods
-
-Placeholder: add experimental design, computational pipeline, assay workflow, imaging workflow, or analysis steps.
-
-## Research Takeaways
-
-Placeholder: add what you learned or built. Avoid stating results, publications, or conclusions until you provide the exact language you want public.
+- 问题+结论的方法描述program，然后需要一条完整的先串联所有experience；内容需要精简一些，然后需要体现学会了什么skill或者specific      skill之类的。
+- Conducted human-subject experiments and processed Vicon      motion-capture data to characterize shank responses to mechanical      perturbations in stroke individuals. 
+- Analyzed joint torque, acceleration, and kinematic responses      relative to control participants and developed perturbation-based models      to characterize and predict post-stroke gait dynamics.

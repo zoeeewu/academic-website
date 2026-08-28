@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 ignoreLogs = ["warning-home-page-is-leaf-bundle", "warning-deprecated-path"]
 
 [params]
-  author = "Your Name"
+  author = "ZOE WU"
   description = "Personal academic research portfolio"
   email = "lachesism46@gmail.com"
   cv = "/cv/CV-placeholder.pdf"

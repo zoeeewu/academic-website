@@ -2,7 +2,6 @@
 <article class="single-page">
   <header class="page-hero">
     <div class="shell">
-      <p class="eyebrow">{{ if eq .Section "projects" }}Research Project{{ else }}Profile{{ end }}</p>
       <h1>{{ .Title }}</h1>
       {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
     </div>

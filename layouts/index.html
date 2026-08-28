@@ -11,6 +11,10 @@
         {{ end }}
       </div>
     </div>
+    <aside class="snapshot" aria-label="Research snapshot">
+      <p>Research focus</p>
+      <strong>Placeholder: add your concise PhD-facing research identity.</strong>
+    </aside>
   </div>
 </section>
 
@@ -32,5 +36,7 @@
     {{ $education = $education | append (printf "<div class=\"mini-item\"><strong>%s</strong><p>%s</p></div>" .title .details) }}
   {{ end }}
   {{ partial "accordion.html" (dict "title" "Education" "content" (delimit $education "")) }}
+
+  {{ partial "accordion.html" (dict "title" "CV" "content" (printf "<p>Placeholder: add your current CV PDF to <code>static/cv/</code> and update <code>params.cv</code> in <code>hugo.toml</code>.</p><a class=\"text-link\" href=\"%s\">Open CV</a>" site.Params.cv)) }}
 </section>
 {{ end }}

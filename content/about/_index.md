@@ -1,5 +1,6 @@
 +++
 title = "About"
+portrait = "/images/about/portrait-placeholder.svg"
 
 [[interests]]
 name = "RESEARCH INTERESTS"
@@ -14,6 +15,18 @@ Master of Biomedical Engineering (GPA: 3.95 / 4)"""
 title = "University of Macau, Macau SAR, China"
 details = """2021.08 – 2025.06
 Bachelor of Science in Biomedical Sciences (GPA: 3.69 / 4)"""
+
+[[outside_lab]]
+image = "/images/about/outside-lab-placeholder-1.svg"
+caption = "Placeholder: add a travel, hobby, photography, food, outdoor, or other personal caption."
+
+[[outside_lab]]
+image = "/images/about/outside-lab-placeholder-2.svg"
+caption = "Placeholder: add a second personal image caption."
+
+[[outside_lab]]
+image = "/images/about/outside-lab-placeholder-3.svg"
+caption = "Placeholder: add a third personal image caption."
 
 +++
 

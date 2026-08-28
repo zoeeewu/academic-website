@@ -5,6 +5,9 @@ date = 2026-05-01
 draft = false
 project_status = "2026.05 – now"
 role = "Research Experience"
+figures = [
+  { src = "/images/projects/bont/figure-placeholder.svg", alt = "Placeholder figure for BoNT project", caption = "Placeholder: replace with a real research figure, workflow, or image." }
+]
 methods = ["Vicon motion-capture data", "joint torque", "acceleration", "kinematic responses", "perturbation-based models"]
 +++
 

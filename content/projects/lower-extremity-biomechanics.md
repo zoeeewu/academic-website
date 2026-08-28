@@ -5,6 +5,9 @@ date = 2026-05-01
 draft = false
 project_status = "2026.05 – now"
 role = "Research Experience"
+figures = [
+  { src = "/images/projects/lower-extremity-biomechanics/figure-placeholder.svg", alt = "Placeholder figure for lower-extremity biomechanics project", caption = "Placeholder: replace with a real gait, force, motion capture, or workflow figure." }
+]
 methods = ["CT-derived anatomical measurements", "3D slicer", "population-specific mathematical models", "MaxCSA"]
 +++
 

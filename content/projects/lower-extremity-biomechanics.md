@@ -4,7 +4,7 @@ summary = "Developed population-specific mathematical models of lower-extremity 
 date = 2026-05-01
 draft = false
 weight = 20
-project_status = "2026.05 – now"
+project_status = "2026.05 – Present"
 role = "Research Experience"
 figures = [
   { src = "/images/projects/lower-extremity-biomechanics/figure-placeholder.svg", alt = "Placeholder figure for lower-extremity biomechanics project", caption = "Placeholder: replace with a real gait, force, motion capture, or workflow figure." }

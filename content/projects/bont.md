@@ -4,7 +4,7 @@ summary = "Conducted human-subject experiments and processed Vicon motion-captur
 date = 2026-05-01
 draft = false
 weight = 10
-project_status = "2026.05 – now"
+project_status = "2026.05 – Present"
 role = "Research Experience"
 figures = [
   { src = "/images/projects/bont/figure-placeholder.svg", alt = "Placeholder figure for BoNT project", caption = "Placeholder: replace with a real research figure, workflow, or image." }

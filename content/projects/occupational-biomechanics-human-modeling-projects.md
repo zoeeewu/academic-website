@@ -4,7 +4,7 @@ summary = "Performed musculoskeletal modeling and biomechanical analysis. Compar
 date = 2026-01-01
 draft = false
 weight = 30
-project_status = "2026.1 – 2026.4"
+project_status = "2026.01 – 2026.04"
 role = "Research Experience"
 methods = ["musculoskeletal modeling", "biomechanical analysis", "OpenSim", "3DSSPP"]
 +++

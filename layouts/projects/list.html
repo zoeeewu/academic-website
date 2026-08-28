@@ -17,7 +17,7 @@
         {{ end }}
       {{ end }}
       <div class="project-card-copy">
-        <p class="meta">{{ .Params.project_status }} · {{ .Params.role }}</p>
+        <p class="meta">{{ .Params.project_status }}</p>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <p>{{ .Summary | default .Params.summary }}</p>
         {{ with .Params.methods }}

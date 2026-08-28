@@ -4,7 +4,7 @@ summary = "Developed an EOG-based gaze-directed audio enhancement system using c
 date = 2026-01-01
 draft = false
 weight = 40
-project_status = "2026.1 – 2026.4"
+project_status = "2026.01 – 2026.04"
 role = "Research Experience"
 methods = ["EOG", "custom analog signal conditioning", "gaze classification", "audio control", "LabVIEW"]
 +++

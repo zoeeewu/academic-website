@@ -3,6 +3,7 @@ title = "Population-Specific Modeling of Lower-Extremity Muscle Morphology"
 summary = "Developed population-specific mathematical models of lower-extremity muscle morphology from CT-derived anatomical measurements, using conventional anthropometric variables to predict muscle maximum cross-sectional area (MaxCSA)."
 date = 2026-05-01
 draft = false
+weight = 20
 project_status = "2026.05 – now"
 role = "Research Experience"
 figures = [

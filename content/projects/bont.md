@@ -3,6 +3,7 @@ title = "Botulinum Neurotoxin effect for Modulation of Human Ankle Impedance dur
 summary = "Conducted human-subject experiments and processed Vicon motion-capture data to characterize shank responses to mechanical perturbations in stroke individuals."
 date = 2026-05-01
 draft = false
+weight = 10
 project_status = "2026.05 – now"
 role = "Research Experience"
 figures = [

@@ -3,6 +3,7 @@ title = "Optimization of small molecule-induced early cardiac differentiation fr
 summary = "Explored serum-free in vitro differentiation strategies to derive cardiomyocytes from human embryonic stem cells (hESCs)."
 date = 2024-03-01
 draft = false
+weight = 50
 project_status = "2024.03 – 2025.06"
 role = "Undergraduate Final Year Project"
 figures = [

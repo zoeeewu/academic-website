@@ -3,6 +3,7 @@ title = "iGEM Biology Competition (Student-led Research Team) 2023"
 summary = "Developed a synthetic biology strategy using genetically engineered probiotics to colonize the gut and degrade gluten before immune activation."
 date = 2023-01-01
 draft = false
+weight = 60
 project_status = "2023.01 – 2023.10"
 role = "Research Experience"
 methods = ["synthetic biology", "genetically engineered probiotics", "biosafety", "project documentation"]

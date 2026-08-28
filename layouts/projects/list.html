@@ -7,7 +7,7 @@
 </section>
 
 <section class="shell project-list" aria-label="Research projects">
-  {{ range .Pages.ByTitle }}
+  {{ range .Pages.ByWeight }}
     <article class="project-card">
       {{ with .Params.figures }}
         {{ with index . 0 }}
